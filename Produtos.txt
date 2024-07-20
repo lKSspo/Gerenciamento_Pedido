@@ -1,0 +1,5 @@
+1;Feijão Carioca Orgânico 500g - Korin;16,90;100
+2;Água sem Gás 1,5L - Minalba;3,10;100
+3;Queijo Frescal Pote 400g - Fazenda Atalaia;27,90;100
+4;Produto Exemplo 4;10,00;50
+5;Produto Exemplo 5;20,00;75
